@@ -5,7 +5,7 @@
   </head>
   <body>
     <div class="container">
-      <img src="" alt="Foto Profil">
+      <img src="https://storage.cloud.google.com/deploy-inas.appspot.com/i.jpeg" alt="Foto Profil" style="witdh:350px; height:350px;">
       <h1> Inas Zahra Nasution </h1>
       <p> Hello, my name is Inas Zahra Nasution. 
         I am currently a sixth semester student majoring in Information Systems Faculty of Computer Science and Information Technology
